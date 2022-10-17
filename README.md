@@ -1,7 +1,5 @@
 
-#gopal
-#test autotrigger
-#test-argo-events
+#full cycle
 
 # Issuegen
 This rest app you can use for generating log and metric data using api as well as UI also for    
