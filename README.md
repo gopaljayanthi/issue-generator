@@ -1,4 +1,4 @@
-
+#fullcycletest
 #gopal
 #test autotrigger
 #test-argo-events
