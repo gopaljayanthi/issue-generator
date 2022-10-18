@@ -1,4 +1,4 @@
-
+#end2endpass
 #gopal
 #test autotrigger
 #test-argo-events
